@@ -19,6 +19,11 @@ npm run build
 
 빌드 결과물은 `dist/` 폴더에 생성됩니다.
 
+## 공개 배포
+
+`main` 브랜치에 push하면 GitHub Actions가 자동으로 GitHub Pages에 배포합니다.
+배포 주소는 `https://doradora2.github.io/KIOSK/` 입니다.
+
 ## 메뉴 수정
 
 메뉴와 가격은 [src/menu.ts](/C:/Users/ssw37/Desktop/Project_3/src/menu.ts)에서 관리하고, 메뉴 이미지는 `Photo/` 폴더에 보관합니다.
