@@ -21,7 +21,7 @@ npm run build
 
 ## 메뉴 수정
 
-메뉴와 가격은 [src/menu.ts](/C:/Users/ssw37/Desktop/Project_3/src/menu.ts)에서 관리합니다.
+메뉴와 가격은 [src/menu.ts](/C:/Users/ssw37/Desktop/Project_3/src/menu.ts)에서 관리하고, 메뉴 이미지는 `Photo/` 폴더에 보관합니다.
 
 ## 포함된 기능
 
