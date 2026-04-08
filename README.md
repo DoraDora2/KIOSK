@@ -21,7 +21,8 @@ npm run build
 
 ## 공개 배포
 
-`main` 브랜치에 push하면 GitHub Actions가 자동으로 GitHub Pages에 배포합니다.
+최초 1회 저장소 `Settings > Pages`에서 `Source`를 `GitHub Actions`로 설정하면,
+이후 `main` 브랜치에 push할 때마다 GitHub Actions가 자동으로 GitHub Pages에 배포합니다.
 배포 주소는 `https://doradora2.github.io/KIOSK/` 입니다.
 
 ## 메뉴 수정
